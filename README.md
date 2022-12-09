@@ -4,7 +4,7 @@
 
 라이브러리는 requirements.txt에 저장 됨 : pip freeze > requirements.txt 
 
-global_chat.db 만들기 : 그냥 새 파일로,
+global_chat.db 만들기 : 그냥 새 파일로,
 
 서버 실행: app 폴더로 이동 한 후, uvicorn main:app --port=8080 --reload
 
