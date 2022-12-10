@@ -2,7 +2,7 @@
 
 가상환경(conda, venv) 버전: python 3.8.5
 
-라이브러리는 requirements.txt에 저장 됨 : pip freeze > requirements.txt 
+라이브러리는 requirements.txt에 저장 됨 : pip install -r requirements.txt 
 
 global_chat.db 만들기 : 그냥 새 파일로,
 
